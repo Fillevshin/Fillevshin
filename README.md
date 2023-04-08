@@ -15,5 +15,8 @@
   </a>
   <a href="https://hh.ru/applicant/resumes/view?resume=0fda8652ff0bd5a6050039ed1f364a56304d66">
   <img src="https://img.shields.io/badge/HH.ru-yellow?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru"/>&nbsp
-</a>
+  </a>
+  <a href="https://vk.com/filippko">
+  <img src="https://img.shields.io/badge/vk-yellow?style=for-the-badge&logo=vk&logoColor=white" alt="vk.com"/>&nbsp
+  </a>
 </div>
