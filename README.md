@@ -13,10 +13,11 @@
   <a href="https://wa.me/79852886543">
   <img src="https://img.shields.io/badge/WhatsApp-yellow?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>&nbsp
   </a>
-  <a href="https://hh.ru/applicant/resumes/view?resume=0fda8652ff0bd5a6050039ed1f364a56304d66">
+  <a href="https://hh.ru/resume/9e07f8ccff0c1b0fc80039ed1f6a666a5a5545">
   <img src="https://img.shields.io/badge/HH.ru-yellow?style=for-the-badge&logo=headhunter&logoColor=white" alt="hh.ru"/>&nbsp
   </a>
   <a href="https://vk.com/filippko">
   <img src="https://img.shields.io/badge/vk-yellow?style=for-the-badge&logo=vk&logoColor=white" alt="vk.com"/>&nbsp
   </a>
 </div>
+
